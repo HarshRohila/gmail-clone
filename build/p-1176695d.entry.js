@@ -1,1 +1,0 @@
-import{r as e,h as s,H as r}from"./p-bd0ef8e0.js";let t=class{constructor(s){e(this,s),this.value=!1}render(){return s(r,null,s("slot",this.value?{name:"checked"}:{name:"unchecked"}))}};export{t as check_box}
