@@ -1,1 +1,0 @@
-import{E as a}from"./p-cf919539.js";const p={prod:{appPath:"/gmail-clone"},dev:{appPath:""}},t={getPath(t){const{appPath:o}=p[a.apiEnv];return o+t}};export{t as A}
